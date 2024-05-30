@@ -2,13 +2,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Momentum
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+author: Do Hyeon Chu
+description: Architect for Security
+email: cnehgus0620@naver.com
+phone: +82 10-8907-9723
+address: Seoul Gangseo-gu Gonghang-daero 36-gil 109
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -30,13 +30,15 @@ google-analytics: # UA-XXXXXX-X
 #-------------------------------
 # Comment Section (Disqus)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: Andol
+
+# Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Do Hyeon Chu <br> Cloud Security Architecture
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -48,7 +50,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Provides the written and visual model to define how to configure and secure activities and operations within the cloud, including such things as identity and access management.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
